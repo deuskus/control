@@ -623,6 +623,12 @@ nav li img {
     line-height: normal;
 }
 
+footer img, svg {
+    cursor: pointer;
+}
+
+
+
 
 
 
