@@ -623,9 +623,11 @@ nav li img {
     line-height: normal;
 }
 
-footer img, svg {
+.footer-section-logo img, svg {
     cursor: pointer;
 }
+
+
 
 
 
